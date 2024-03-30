@@ -47,5 +47,6 @@ class StarshipRepository
                 return $starship;
             }
         }
+        return null;
     }
 }
